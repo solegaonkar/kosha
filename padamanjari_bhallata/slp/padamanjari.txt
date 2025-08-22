@@ -1,0 +1,411 @@
+;METADATA
+;title{padamaYjarI}
+;author{Ballawa}
+;bookFullName{The Journal of the Tanjore Sarasvati Mahal Library Vol. XVI, No. 2,3}
+;bookSeriesDetails{}
+;editor{Śrī P. V. Varadarāja Sarmā}
+;editorQualifications{M. A.}
+;publisher{Edited by S. Gopalan, Honorary Secretary T.M.S.S.M. Library Tanjore}
+;pressDetails{}
+;publicationYear{1962 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{PMBL}
+;funding{}
+;licence{GNU GPL v3.0}
+;credits{1. Google OCR for providing us raw OCR data to work with. 2. Mr. Abhay Rathore for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{special}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{prāsa}
+;newVerseNumbersAtChangeOf{prāsa}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{19 August 2025}
+;version0.0.2{19 August 2025}
+;version0.0.3{19 August 2025}
+;version0.0.4{20 August 2025}
+;version0.1.0{21 August 2025}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0046}
+;c{padamaYjarI}
+;k{kakAraprAsAH}
+lakzmIrbuDanfpAlena yaM prAptA kaviBallawam .
+tena kAvyadfSA proktA saprAsA padamaYjarI .. 1 ..
+SukaSSukaM bakaSca syAdbakaMwakamitIritam .
+trikaM trikastrikA proktA SakaScApyakamityapi .. 2 ..
+pikaH pikI SukIti syAtkfko vfka itIritaH .
+lokaH pAkaH SlokanAkO rekaH kokaSca Sokavat .. 3 ..
+okAnokO SUkaBekO stokaSSAkaSca rAkavat .
+BekaH kAkastaTA mUkaSOkaRqUkaM ca QOkavat .. 4 ..
+nAkurvAkastaTA nAkA kekA kekIti kaTyate .
+nOkA cEkA'pi kokI ca SUkA cetyaBiDIyate .. 5 ..
+aNkaH kaNkaSca laNkA ca SaNkA waNka udAhftaH .
+nyaNkuSSaNkuSca paNkaSca valkaM SalkaM ca Sulkavat .. 6 ..
+kalkaH kalkaM ca SulkaSca kizkurmuzkaSca nizkavat .
+arko markaSca karkaSTa tarkaH parkaSca kaTyate .. 7 ..
+;c{iti kakAraprAsAH .}
+;k{KakAraprAsAH}
+suKaM muKaM naKo'pi syAnnaKaM cApi SiKA SiKI .
+SAKyA vyUKA taTA SAKI puNKA riNKA ca puMKavat .
+nyuNKo maNKastaTA SaNKaH kaNKA turagavallaBe .. 8 ..
+;c{iti KakAraprAsAH .}
+;k{gakAraprAsAH}
+ago nagaH KagaSceti BfgurliguragurmfgaH .
+mfgI yugI sugaSvApi Bago BAga itIryate .. 9 ..
+;p{0047}
+stagassyago yugo'pi syAdyugaM cATa Cago'pi ca .
+BAgo BogastaTA rAgo rAgo'pi syAcca rogavat .. 10 ..
+pUgo nAgastaTodyogaH CAgaSSrIgaSca kaTyate .
+BogI yogI taTA tyAgI rogI BAgI nigadyate .. 11 ..
+nAgaM BAgaM ca ............ kIrtitaH .
+tyAgo yAgo'Ta rAgI ca mArgo Bargo nigadyate .. 12 ..
+svargo vargaSca sargaSca durgo nirgaSca kaTyate .
+durgA durgamiti proktaM BaNgA BaNgaSca kaTyate .. 13 ..
+SfNgaM liNga taTA raNgaM maNgaM vaNgaM ca BaNgavat .
+tuNgo vaNgo'Ta BfNgaSca BfNgaM taNgaM nigadyate .. 14 ..
+KaNgo'pyarTAntare grAhyo madgudBaH(?) parikIrtitaH .
+;c{iti gakAraprAsAH .}
+;k{GakAraprAsAH}
+maGo laGU raGuSceti maGi vApyaGamityapi .. 15 ..
+oGo maGo'pyaTa SlAGA mAGo meGaM made dvayoH .
+arGastvarGaM puzpaBede'pyarGasantarpaRe'pi ca .. 16 ..
+;c{iti GakAraprAsAH .}
+;k{cakAraprAsAH}
+ruciH picuSSuciScATa kacaSvApi kacA'pi ca .
+kAcassUciSca vIciSca nIco mocA nigadyate .. 17 ..
+kOYco muYcastu ciYcA ca kuYcI caYcA prakIrtitA .
+kAYcI kaYcI praSastA ca carcA'pyarcA nigadyate .. 18 ..
+varzo marcistaTApyarcissvarcistadBedake'pi ca .
+;c{iti cakAraprAsAH .}
+;p{0048}
+;k{CakAraprAsAH}
+kacCo gucCastaTA pucCaH svacCaH picCA nigadyate .. 19 ..
+tucCaM pucCaM taTA'pyacCaM mUrcCA piYCaM napuMsakam .
+vAYCA maYCA taTA'pyaYCA vanamArge nigadyate .. 20 ..
+;c{iti CakAraprAsAH .}
+;k{jakAraprAsAH}
+kujo nijo dvijaSvApi prajA cApi BujA'pi ca .
+BujaH Kajo rajaScApi DvajaM cAjaSva kaTyate .. 21 ..
+svajo vajA sajastu syAtsajjA gajjA nigadyate .
+vyAjo rAjA'Ta rAjaSva vAjI vAjiSva kaTyate .. 22 ..
+AjirbIjaM taTA tejo vAjo BUja itIryate .
+UrjassPUrjastaTA BUrjo garjA garjaM ca kaTyate .. 23 ..
+KarjurBarjaM taTA vArjaM kaYjaM kuYjaM ca kaTyate .
+kaYjaH kuYjaSva maYjI ca muYjI mOYjI nigadyate .. 24 ..
+guYjA gajYA taTA laYjI pijYaM haYjA prakIrtitA .
+abjamabjaSca kubjA ca kubjaSca parikIrtitaH .. 25 ..
+;c{iti jakAraprAsAH .}
+;k{JakAraprAsAH}
+jaYJA saYJalikA JaYJA muYJapratyUzavAcake .
+;c{iti JakAraprAsAH .}
+;k{jYakAraprAsAH}
+saMjYA prajYA taTA'pyajYaH prAjYo yajYaH prakIrtitaH .. 26 ..
+;c{iti jYakAraprAsAH .}
+;k{wakAraprAsAH}
+vawo viwaH pawaSceti nawaScawuritIryate .
+jawA vawuH kawuSvApi sawA truwirawastawit .. 27 ..
+;p{0049}
+Gawo GawirGawA cApi KawaH kawiritIryate .
+Gawo GawiH kuwaScApi kuwiH kuwamitIritam .. 28 ..
+pawuH sPawastawaScATa kowistrowiSca GAwavat .
+kUwo nAwastu nAwA ca GowirGowaH prakIrtitaH .. 29 ..
+vAwirvIwI taTA SAwI Bowo lewaSva kaTyate .
+DAwI DUwI taTA pewI kIwI JAwiSva rewivat .. 30 ..
+pawwaH pawwA ca pawwiSvApyawwastvawwAlamityapi .
+awwaM rawwaM ca GawwaSva kiwwaH kuwwaH prakIrtitaH .. 31 ..
+tvazwA tuzwirvfzwisfzwI spfzwiH puzwiSca kaTyate .
+dfzwirdvizwirvizwiriti vyuzwiryazwiH prakIrtitaH .. 32 ..
+izwistuzwiSca rizwaM ca GfzwirizwaM nigadyate .
+spazwaM mlizwaM taTA puzwo duzwo dazwaM tvitIritam .. 33 ..
+GoRwA kaRwastaTA GaRwA luRwA GuRwiriti smftaH .
+;c{iti wakAraprAsAH .}
+;k{WakAraprAsAH}
+haWo maWo ruWaSca syAnluWaSvApi SaWaH smftaH .. 34 ..
+pAWaH pIWI ca pIWaSva maWaSvApi nigadyate .
+kaRWaSSuRWaSca SuRWI ca luRWaM kuRWaM ca kaTyate .. 35 ..
+nizWA jyezWA taTA jyezWaH sfzWaM kAzWaM ca kuzWavat .
+kozWaM prazWaM ca sizWaH syAtkazwaM ceti nigadyate .. 36 ..
+;c{iti WakAraprAsAH .}
+;k{qakAraprAsAH}
+iqA guqA guqaSvApi jaqA jaqa itIryate .
+kuqaH kuqurgaquSca syAnnaqo naqamitIritam .. 37 ..
+;p{0050}
+kaqA svarRakalAyAM syAtkuquH kuYje nitAntare .
+kaqA cApyaTa cUqA ca coqaScApi nigadyate .. 38 ..
+vyAqaH pIqA ca nAqaSva kroqA kroqaSca kaTyate .
+nIqaM nAqI ca vAqaSca cUqI coqI nigadyate .. 39 ..
+kzveqA vrIqA taTA gOqaH daRqI daRqaSca kaTyate .
+piRqiSSuRqA ca caRqaSca caRqI muRqI nigadyate .. 40 ..
+aRqaM BARqaM ca pARquSca SORqo baRqamitIritam .
+kARqaM KaRqaSca SORqI ca gaRqamiRqaM ca kuRqavat .. 41 ..
+kuRqI daRqaSca piRqaM ca kARqaScApi nigadyate .
+;c{iti qakAraprAsAH .}
+;k{QakAraprAsAH}
+dfQaM cApyaTa rIQaSca dAQA coQA ca kaTyate .. 42 ..
+gAQaM gUQaM ca bAQaM ca rUQaM mUQaSva pIQavat .
+;c{iti QakAraprAsAH .}
+;k{RakAraprAsAH}
+guRaH paRaH kzaRaSveti gaRo GfRiritIryate .. 43 ..
+maRiH PaRiH PaRA cARu raRastfRamitIritam .
+GfRA kaRA raRe cApi fRaM vraRamitIritam .. 44 ..
+caRo'Ta vIRA koRaSca kARo jURirnigadyate .
+SARaSSoRastaTA SreRI SroRI vARI prakIrtitA .. 45 ..
+pARI pARistaTA prARI SoRI tURA'pyaGARizat .
+prARastURaSca veRuSca BrURo GrARaSca tARavat .. 46 ..
+SrARasta .......... droRaM droRaSca kaTyate .
+jUrRA'pyUrRA taTA pUrRA svarRaM parRaM ca varRavat .. 47 ..
+;p{0051}
+karRaScArRaM taTA cUrRaM tUrRaM karRaM pragIyate .
+tIkzRaM SlakzRaM ca kfzRaSca vizRurjizRuH prakIrtitaH .. 48 ..
+uzRaM kozRaM ca tfzRA ca kfzRaM ca praRigadyate .
+;c{iti RakAraprAsAH .}
+;k{takAraprAsAH}
+latA gatissitaM cApi kftaM matamitIritam .. 49 ..
+matiH SrutiH stutiSva syAnnutiH kftirutIti ca .
+SataM mitaM ca gativat sutaSca syAtpitA'pi ca .. 50 ..
+ratirhatiH smftiSceti BftiScATa DftistaTA .
+kzitiScApi citiSca syAtsatI ratamitIritam .. 51 ..
+GftaM kzutaM cyutaM ceti mftaM gatamiti kramAt .
+DAtuH ketustaTA seturheturgAtuSca tAtavat .. 52 ..
+mftA ca potaH syUtiH syAnnItirBUtiritIritA .
+dUtissUtaSca BItiSca hetistretA ca kaTyate .. 53 ..
+pUtaM BUtaM ca DUtaM ca SataM pItaM ca vItavat .
+jyotissAtiSva rItiSca prItissAtiSca rAtivat .. 54 ..
+ItirgItistaTA DOtiH sroto retaSca kaTyate .
+jAtassitaM ca vItiSca mAtA DAtA taTA'pi ca .. 55 ..
+sitaM SvetaM ca mantuSca kanturyantA nigadyate .
+BrAntirdAntistaTA SAntiH kzAntiH kAntiSca kAntavat .. 56 ..
+vfntaM kAntaM ca kAntA ca vAntamantaM ca kaTyate .
+kzatA kfttirvfttiriti patirvfttaM ca vItavat .. 57 ..
+SAstA vastA taTA bastirgastaM SastaM ca kaTyate .
+hasto vAstuSca SastaM ca mastuH syAnnavanItake .. 58 ..
+;p{0052}
+paktiSva kaTyate SaktiryuktirBuktiSca Saktivat .
+SuktirmuktistaTA vaktA yuktaM tyaktaM ca saktavat .. 59 ..
+uktaM proktaM taTA vyaktaM raktaSSiktaSca tiktavat .
+mUrtiH sPUrtistaTA kIrtirArtiH pUrtiSca vArtavat .. 60 ..
+DfrtaM pUrtaM taTA vArtaM varto vArtA ca kaTyate .
+kartA BartA taTA DartA smartA ceti nigadyate .. 61 ..
+AptirguptiH prAptiriti guptaM liptaM ca klfptavat .
+kziptaM luptaM ca klfptiSca prAptaScAptaSca kaTyate .. 62 ..
+;c{iti takAraprAsAH .}
+;k{TakAraprAsAH}
+kuTo raTo maDuSca syAtkanTA sanTi itIryate .
+vITI sATI taTA pITaM sATaproTaM ca kaTyate .. 63 ..
+arTassArTastaTA pArTastIrTaM ceti nigadyate .
+granTo granTiSca manTaSva prasTaM dusTaSca kaTyate .. 64 ..
+AsTA prasTA ca saMsTA ca sikTaScetyaBiDIyate .
+;c{iti TakAraprAsAH .}
+;k{dakAraprAsAH}
+Cado mado nadaSceti nadI cATa gadAgadaH .. 65 ..
+padaM cApi radaSva syAcCandaH kando nigadyate .
+skandaH klenduSca kanduSca kundaM vfndaSca kaTyate .. 66 ..
+andurinduSca mandaSca vandI syandamitIritam .
+nAndI nandiSva nandaSca nandA cetyaBiDIyate .. 67 ..
+vedo rodastaTA medaH svedaH pAdaSca SAdavat .
+syAdaM SrIdaSca vedI ca vAdo nAdaSca kaTyate .. 68 ..
+;p{0053}
+CardirmadastaTA durdaH kardaScetyaBiDIyate .
+abdaSSabdaSca sundaSca kubdo rogaviSezake .. 69 ..
+;c{iti dakAraprAsAH .}
+;k{DakAraprAsAH}
+buDo viDirviDuSca syAdviDAmaDusuDAvyaDAH .
+vaDUrvaDaH pfTuSceti kaTA'pi syAnniDistaTA .. 70 ..
+ADirBoDistaTA goDirgoDA rADA ca rADavat .
+sADussiDustaTA bADA gADA meDA ca kaTyate .. 71 ..
+gADaH pADastaTA meDI banDuranDuritIryate .
+ganDaH skanDaSca sanDA ca sinDuranDaSca kaTyate .. 72 ..
+SrAdDamidDaM ca sidDaSca budDirbudDaM ca kaTyate .
+vidDaM vfdDaSva SudDaSva vfdDirbadDamitIritam .. 73 ..
+mUrDA vArDistaTApyarDaM lubDo'pyabDiH praDIyate .
+;c{iti DakAraprAsAH .}
+;k{nakAraprAsAH}
+jano jino GanaSca syAdinaScApi DanaM DanI .. 74 ..
+janI mano DanuScApi mano vana itIryate .
+BAnussUnuSva mInaSva DAnA jAnIti kaTyate .. 75 ..
+yAnaM pAnaM taTA dAnaM snAnaM sTAnaM ca vAnavat .
+mAnaM sUnaM ca nUnaM ca CinnaM sannaM ca Binnavat .. 76 ..
+annaM vinnaM taTA CannaM Bugno BagnaH prakIrtitaH .
+agnirnagnastaTA nagnaM viGno niGnaSva kaTyate .. 77 ..
+dyumnaM cihnaM taTA braDnaH braDnA cetyaBiDIyate .
+;c{iti nakAraprAsAH .}
+;p{0054}
+;k{pakAraprAsAH}
+kapirvapustrapuSceti kfpaScATa tapastapA .. 78 ..
+kfpA prapA trapA cApi nfpe vipa itIryate .
+kopo lopaSca sUpaSca SrIpo gopaSca BUpavat .. 79 ..
+kUpaSca wopaH kaTitaScApastApaH prakIrtitaH .
+rUpaM yUpaM ca dIpaSca dvIpo DUpa udAhftaH .. 80 ..
+kalpastalpaM taTA SilpaH svalpaSvetyaBiDIyate .
+darpassarpaSca sarpiSca SUrpaH kUrpamitIritam .. 81 ..
+puzpaM bAzpaSca bAzpaM ca nizpApA DAnyavAcake .
+;c{iti pakAraprAsAH .}
+;k{PakAraprAsAH}
+siPA SarPa ca kaTitaM rePaSSabdaravarRayoH .. 82 ..
+;c{iti PakAraprAsAH .}
+;k{bakAraprAsAH}
+stambo qimbo'Ta SambaSca kabirvimbaSca kaTyate .
+rumbuH kambustaTA jambUSAbastUbaH prakIrtitaH .. 83 ..
+;c{iti bakAraprAsAH .}
+;k{BakAraprAsAH}
+svaBUH praBA saBA cATa SuBaM cApi naBo naBaH .
+praBurviBussaBaSva syAcCamBurjamBastu kumBavat .. 84 ..
+qimBastamBastu jfmBaSca ramBA kumBiH pragIyate .
+garBo darBastaTApyarBaH vArBUrityaBiDIyate .. 85 ..
+;c{iti BakAraprAsAH .}
+;k{makAraprAsAH}
+drumo BramaSSamiSceti kramaH kfmiyamO samaH .
+sumaSSamaH stumaSca syAtkzamA hima itIryate .. 86 ..
+;p{0055}
+umA samA rumA cApi ramA'pi syAttameva hi .
+SramaScEva tamo'pi syAtsomo grAmo'pi kaTyate .. 87 ..
+kAmamityavyayaM kAmassImA hemApi sImavat .
+dAma rAmastaTA rAmA kzemaM kzOmaM nigadyate .. 88 ..
+BImaH premA taTA nemiH svAmissAmiSca BOmavat .
+BIzmaM grIzmastaTA BIzmaH karma Barma ca Sarmavat .. 89 ..
+UrmirurmI taTA Darmo varma carma ca narma ca .
+raSmiraSma taTA veSma varma cAtmA prakIrtitaH .. 90 ..
+lakzmIssUkzmaM ca lakzmaM ca rukmaM tokmaM nigadyate .
+janma sadma ca padmaM ca padmA cetyaBiDIyate .. 91 ..
+;c{iti makAraprAsAH .}
+;k{yakAraprAsAH}
+vayo nayaH payaSca syAtkzayaScApi layo'pi ca .
+trayI kriyA jayA tu syAt hayo yayuritIryate .. 92 ..
+jAyA prAyastaTA BUyo mAyA CAyA'pi cezyate .
+SreyaH kAyastaTA nAyo neyo vAyuriti kramAt .. 93 ..
+AryassUryastaTA SaryaH paryaM DuryA ca kaTyate .
+DEryaM vIryaM ca SOryaM ca cOryaM krOryaM nigadyate .. 94 ..
+tArkzyo vA ca vArkzyaM ca manyurvanyaM ca janyavat .
+janyA sEnyaM ca mAnyaSca SUnyaM dEnye ca manyavat .. 95 ..
+kanyA janyA ca vanyA ca .......... .
+sanDyA vinDyaSca sAnDyaYca vanDyA ceti nigadyate .
+kakzyaH kakzyA ca lakzyaSca BakzyaM cetyaBiDIyate .. 96 ..
+;p{0056}
+dravyaM kAvyaM gavyamiti BavyaM sevyaM ca savyavat .
+bAlyaM balyaM ca lAlyaM ca kOlyaM kAlyaM ca tOlyavat .. 97 ..
+kalyaM SalyaSca SalyaM ca cEtyaM satyaM ca nityavat .
+kAsyaM mAMsyaM ca SAMsyaM ca rUpyaM rOpyaM ca gopyavat .. 98 ..
+taTyaM raTyA ca paTyA ca paTyaM paTya itIryate .
+saNKyA sANKyaM ca maDyaM ca maDyA syAcCandasi striyAm .. 99 ..
+sOmyo ramyaSca ramyaYca grAmyo gamyamitIritam .
+gfhyaM grAhyaM ca guhyaM ca sahyaH parvatavAcake .. 100 ..
+puRyaM gaRyaM ca paRyaM ca paRyA ceti nigadyate .
+DizRyaM ca puzRyaM kaTitaM veSyA kaSyaM ca dfSyavat .. 101 ..
+dfzyaM puzyaM taTA pOzyamiByassaBya itIritaH .
+;c{iti yakAraprAsAH .}
+;k{rePAntaprAsAH}
+karo naro BaraSceti kzuraScApi svaraH KaraH .. 102 ..
+KurastsaruSca kzaravat marunmaruritIryate .
+caruH paririrA tu syAtsurAtarisurAssarit .. 103 ..
+taraSSiraSSaraSvApi SaranmarudurodaraH .
+saraH paraH parantu syAtparaM SaramitIritam .. 104 ..
+darI karI turI cApi purassmaraharADarAH .
+purA'vyayaM paraM tu syAt harirgirigurukzarAH .. 105 ..
+taruH puruH tsaruSca syAdgarurgururitIryate .
+sAro vAraSca BAraSca kzAraScAraSca hIravat .. 106 ..
+;p{0057}
+kArurmerustaTA cArurdvAraM kzIraM tu tIravat .
+tArA tAraSca tAraM ca mAro hAraSca Goravat .. 107 ..
+krUraSSUrastaTA DIraH pOro gOraSca kaTyate .
+gOrI BUrica BUrica svErassira itIryate .. 108 ..
+SakraScakrI ca cakraM ca cakraH SukraSca Sukravat .
+vakro vakraM taTA vakrA takraM nakraSca kaTyate .. 109 ..
+mantrastantraM ca tantrI ca mantrI yantra itIryate .
+adriH CidraM ca nidrA ca mudrA BadrA ca Badravat .. 110 ..
+kzudraH kzudrA ca rOdrI ca kadrU kadruSca kadruvat .
+citrA citraM ca DAtrI ca CatrA CatraM ca kaTyate .. 111 ..
+potrI yAtrA ca gAtraM ca satraM sUtraM ca netravat .
+potraM pAtraM kzatragotre kzetraM mitraM ca vetravat .. 112 ..
+totraM mAtrA ca mAtraM ca gotrA putraSca kaTyate .
+vastraM SastraM ca SAstraM ca BastrI cAstraM nigadyate .. 113 ..
+agraM vyagraSca SigruSca puRqraM puRqraH pragIyate .
+EndririndraSca tandrI ca tandraScandraSca sAndravat .. 114 ..
+daMzwrI daMzwraSca rAzwraM ca tIvraM vakraM ca kfCravat .
+vajramasraM taTApyaSrurvyAGraSSIGramitIryate .. 115 ..
+vapro viprastaTA kzipramaNGrissaNGrA nigadyate .
+aBraM SuBrastaTA baBrurArdrA ranDramitIryate .. 116 ..
+;c{iti rePAntaprAsAH .}
+;p{0058}
+;k{lakAraprAsAH}
+baliH kalirvaliSceti nalo bilaPale palam .
+jaluH kulaM dalaM ca syAjjalaM talamitIritam .. 117 ..
+KalaM SalaM SalatalO talA ca syAtkalAkalam .
+vIlussAlaSca heliSca helA SAlA ca kUlavat .. 118 ..
+AliH pAliSva velA ca lIlA mUlamitIryate .
+nAlastAlaM taTA mAlaM kAlI nIlI ca SAlivat .. 119 ..
+kAlaH kAlA taTA SIlaM jAlaM pAlaM ca sAlavat .
+pAlA mAlA taTA sTAlI syAlaM vyAlaSca celavat .. 120 ..
+kolA SElI sIlanAlO kIlo bolaSca bolavat .
+mOliH sTUlastaTA bAlaH kIlaSSIlI ca kaTyate .. 121 ..
+mallI vallI taTA BillI pallI mallaM ca Ballavat .
+BallI cullaScillaballO tillaH Pulla itIryate .. 122 ..
+;c{iti lakAraprAsAH .}
+;k{vakAraprAsAH}
+BavaSSivo dravaSceti pavirhaviritIryate .
+davaH plavaH Cavistu syAt DruvAlavalaGuDruvAH .. 123 ..
+aviH kaviH kavI cApi sruvaH sravasavastavAH .
+dava dArviH pUrvaparve dUrvA mUrvA ca kaTyate .. 124 ..
+satvaM tatvaM punaH sAntvaM viSvaM SaSvattadaSvavat .
+jihvA yahvI punarbahvI pfTvI sADvI va mADvavat .. 125 ..
+saMvitsaMvattaTA SaMviddvandvamUrDvaM ca kaTyate .
+kaRvaM kaRvaSca kaRvI ca pArSvaM BAsvAn pracakzate .. 126 ..
+;p{0059}
+pakvaM prakvaM taTA SAkvaM 
+;c{iti vakAraprAsAH .}
+;k{SakAraprAsAH}
+paSuH kuSa itIryate .
+daSA niSA vaSaSca syAdvaSA kaSamitIritam .. 127 ..
+ISaH pASastaTApyASuH kASiH kASI ca veSavat .
+peSI rASistaTA pASI koSaH pASaSca kaTyate .. 128 ..
+arSo darSastaTA sparSo marSaScetyaBiDIyate .
+;c{iti SakAraprAsAH .}
+;k{zAntaprAsAH}
+fzistuzo vfzaScEva dfzadvizaditIryate .. 129 ..
+vfzA vizA vizaScApi vizaM tu syAt Jazetyapi .
+mAzaSSozaSca SezaSca pOzo GozA ca Gozavat .. 130 ..
+dozA SezA ca SezaM ca BAzA BUzA ca vezavat .
+pUzA yozA taTA SlezarozO BIzaSca kaTyate .. 131 ..
+karzaM tarzaSca varzaM ca varzA varzUSca Garzavat .
+;c{iti zAntaprAsAH .}
+;k{sAntaprAsAH}
+prasUrvasUrasaSceti vasuvadrasamityapi .. 132 ..
+rAsavyAsO taTA vAso BAsaH kAsUritIryate .
+dAsI dAsastaTA vAso vatso drapsaSva lipsavat .. 133 ..
+;c{iti sAntaprAsAH .}
+;p{0060}
+;k{hakAraprAsAH}
+ahirgraho vahaSveti rahassahasahe vahI .
+guho mahastu gfhavat bahurmaha itIryate .. 134 ..
+mohaH prohastaTA sneho vyUho rAhustu bAhuvat .
+bAhA ca siMhassiMhA ca siMhI barhaM ca barhivat .. 135 ..
+;c{iti hakAraprAsAH .}
+;k{kzakAraprAsAH}
+pakzaH plakzastaTA mokzo yakzo BikzA nigadyate .
+prokzA rakzA ca lakzaSca lakzaM nyakzaSca kakzavat .. 136 ..
+dakzo rUkzastaTApyakzaM kukziH pakzi ca vfkzavat .
+fkzaM rakzastaTA drAkzA DvANkzaM DvANkzaSca kaTyate .. 137 ..
+;c{iti kzakAraprAsAH .}
+;c{iti kaviBallawaviracitapadamaYjarI samAptA .}
+

@@ -1,0 +1,401 @@
+;METADATA
+;title{kriyAniGaRwu}
+;author{ajYAta}
+;bookFullName{avijYAtakavikartfkaH kriyAniGaRwuH}
+;bookSeriesDetails{}
+;editor{Vidwan Umakant Bhat, Melukote}
+;editorQualifications{M. A., prAcInanyAyapaRqitaH}
+;publisher{Shatamanotsava Datti Vedavedantabodhini Samskrita Mahapathashala, Melukote}
+;pressDetails{S. Chandrashaker for Chāritra Printers, Mysore-4}
+;publicationYear{2000 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{KRNA}
+;funding{}
+;licence{GNU GPL v3.0}
+;credits{1. Google OCR for providing us raw OCR data to work with. 2. Mr. Abhay Rathore for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{syno}
+;pagenum{true}
+;linenum{true}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{21 August 2025}
+;version0.0.2{21 August 2025}
+;version0.0.3{21 August 2025}
+;version0.0.4{21 August 2025}
+;version0.1.0{21 August 2025}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0001}
+;c{SrIrastu}
+;c{avijYAtakavisandfbDaH kriyAniGaRwuH}
+BavatyarTe Bavatyasti jAyate vidyate taTA .
+sampadyate nizpatati nizpadyata udaYcati .. 1 ..
+utpadyate'pyudayata udetyudayatIti ca .
+[^1]aNkUratyaNkurati codBidyate kandalatyapi .. 2 ..
+eDate varDate nandatyapyuttizWata fDyati .
+BAsate SoBate BAti lasatInDe prakASate .. 3 ..
+rAjate dyotate rAjatyapi dIvyati dIvyate .
+cakAsti kasati BrAjate ca sPurati rocate .. 4 ..
+bravIti vakti vadati BaRatyAKyAti SaMsati .
+Acazwe [^2]vazwi gadati brUte lapati BAzate .. 5 ..
+<f id="1">
+biBrARA lokamaryAdAM mAtA me hfdi sarvadA .
+prasannavarRaBUzA'sO sanniDattAM sarasvatI .
+anirjYAtakavisandfbDakriyAkoSaprakASanIm .
+prayojanavatIM nAma laGuvfttiM tanomyaham ..
+kriyArUpe yadi kvApi saMSItirjAyate puna: .
+tatrEva wippanIrUpAM vivftiM vidaDAmyaham ..
+<f id="1">
+1 aNkUratIti - aNkUraSabdAdAcArarTe kvipi rUpaM siDyati . aNkUra 
+ivAcarati aNkUrati ityarTaH . evameva aNkurati kandalati ityAdAvapi 
+prakriyA boDyA .
+</f>
+<f id="2">
+vazwi - icCatItyarTaH . asyeha kaTanADikAre pAWaH cintyaH .
+</f>
+;p{0002}
+vyAharatyaBiDatte'BidaDAtIrayatItyapi .
+uccArayatyAmanati kaTayatyAha jalpati .. 6 ..
+Iwwe varRayati stOti stute nOti praSaMsati .
+vandate SlAGate cApi kIrtayayatyaBinandati .. 7 ..
+upaSlokayatItyarTe paRAyati panAyati .
+vyAKyAti vivfRoti vyAkurute[^1]'rTApayatyapi .. 8 ..
+vivfRIte vivfRute vyAcazwe vyAkaroti ca .
+prabaDnAti praRayati prayuNkte vyAkaroti ca .. 9 ..
+pUjayatyarcayati satkarotyAdriyate'Ycati .
+samBAvayatyarcati satkurute mAnayatyapi .. 10 ..
+saBAjayatyupacaratyanvAste mahayatyapi .
+ArADayatyanusaratyArADyatyaBirADyati .. 11 ..
+SuSrUzate paricaratyupAste varivasyati .
+puraskaroti ca puraskurute bahu manyate .. 12 ..
+bahUkaroti ca bahu manute cArhayatyapi .
+[^2]namaskaroti kurute juzate ca namasyati[^3] .. 13 ..
+<f id="1">
+1 arTApayati- arTamAcazwa ityarTe arTaSabdAt Rici arTavedayorapyApugvaktavyaH iti 
+vArtikeRa ApugAgame ca rUpam .
+</f>
+<f id="2">
+2 namaskaroti - 'namas' iti praRAmArTakAvyayasya karoti, kurute ityuBayatrApi 
+pUrvataH samaBivyAhAraH . taTA samudAyasyEva namatiparyAyatvAt .
+</f>
+<f id="3">
+3 namasyati - pUjayatItyarTaH . namovarivaScitraNaH kyac iti sUtreRa namasSabdAt 
+kriyAviSeze pUjAyAM kyac .
+</f>
+;p{0003}
+Bajate Bajati Srayati Srayate praRipatati sevate namati .
+aBivAdayate [^1]pAdO gfhRIte vandate'BivAdayati .. 14 ..
+avati trAyate pAti pAlayatyapi rakzati .
+SAsti gopAyati BunaktyaBigopAyatIti ca .. 15 ..
+prIyate modate hfzyatyAnandati ca nandati .
+nirvfRoti ca [^2]nirvAti [^3]suKyatyavati tuzyati .. 16 ..
+suKayatyAhlAdayati prIRIte prIRayati suKAkurute[^4] .
+Anandayati DinotyAmodayati ca harzayati ca tozayati .. 17 ..
+dUyate vyaTate duHKyatyapi Socati sIdati .
+Kidyate kliSyati SrAmyatyantastapati tAmyati .. 18 ..
+glAyati mlAyati pluzyatyapi svidyati Suzyati .. 19 ..
+kliSnAti kleSayati vyaTayati duHKAkaroti Socayati .
+vihvalayati ca dunoti vyAkulayati vimanayati vizAdayati .. 20 ..
+GAtayatyAhate hanti nibarhayati sUdate .
+hinastyujjAsayati saMharate sUdayatyapi .. 21 ..
+kadarTayati maTnAti karSayatyapi bADate .
+pinazwyupadravati ca pIqayatyapi SAsti ca .. 22 ..
+<f id="1">
+1. pAdO gfhaRIte - uBayapadasamudAya eva aBivAdanArTakaH .
+</f>
+<f id="2">
+2 nirvAti - nirupasargabalAt sarvabanDavimokarUpasuKaboDakamidam .
+</f>
+<f id="3">
+3 suKyati - suKaM anuBavati .
+</f>
+<f id="4">
+4 suKAkurute - suKaSabdAt kfYo yoge Anulomye'rTe qAc . anukUlAcaraRena AnaMdayatItyarTaH .
+</f>
+;p{0004}
+nigfhRIte nigfhRAti tAqayatyapi viDyati .
+tanUkaroti takzRoti kraSayatyapi ca dyati .. 23 ..
+Apnoti laBate yAti [^1]gacCatyayati fcCati .
+prapadyate jihIte'YcatyAsAdayati vindate .. 24 ..
+AsIdati vrajatyeti caratyawati QOkate .
+vyApnoti sarpati saratyayate mUrcCatItyapi .. 25 ..
+upasarpatyupasaratyupayAtyupagacCati .
+upaDAvatyupanayatyupEtyupatizWate .. 26 ..
+apasarpatyupasaratyupayAtyapagacCati .
+apEti vyayati vyeti vigacCatyapavartate .. 27 ..
+AgacCatyAvrajatyAyAtyApatatyAsaratyapi .
+nirgacCati ca niryAti nissaratyutpatatyapi .. 28 ..
+udgacCatyudvrajatyudyAtyuttizWatyuccalatyapi .
+aBigacCatyaBipatatyaBiyAtyaBiDAvati .. 29 ..
+aBiprArdayate [^2]cEvamaBizeRayatIti ca .
+anusarpatyanupatatyanUdetyanuvartate .. 30 ..
+anugacCatyanusaratyanuyAtyanuDAvati .
+anvetyanudravatyanvAgacCatyanvayatItyapi .. 31 ..
+<f id="1">
+1 gacCati - gatyarTakAH gacCatyAdayaH kriyAjanyasambanDarUpaprAptimapi boDayantaH 
+paryAyataH ApnotisamAnArTakAH .
+</f>
+<f id="2">
+2 aBizeRayati -  senayA aBiyAti .
+</f>
+;p{0005}
+viqambayatyanukarotyupamAtyanukalpate .
+ete'nuvidaDAtyarTe tulayatyapi tAdfSaH .. 32 ..
+dadAti dadate datte diSatyupaharatyapi .
+viSrARayatyarpayati vitaratyAvahatyapi .. 33 ..
+prayacCati sparSayati pratipAdayatIti ca .
+[^1]pAtratrA kurute tatsAtkArotyatisfjatyapi .. 34 ..
+[^2]dAsyA saMyacCate kAmI dadAtyupakaroti ca .
+Adatte pratigfhRAti pratigfhRIta ityapi .. 35 ..
+jahAti visfjatyujJatyapi tyajati muYcati .
+muYcate varjayati ca taTA pariharatyapi .. 36 ..
+Kelati krIqati parikrIqate viharatyapi .
+saNkrIqate viBramati vinodayati dIvyati .. 37 ..
+ramate'nukrIqate preNKati tvaNgati riNgati .
+viBrAmyati lalatyevamaTo nawati nftyati .. 38 ..
+vIrAyate Darzayate Darzayati pratihanti pragalBate .
+vikrAmati parikrAmatyaTa dfpyati mAdyati .. 39 ..
+aTo jayatyatikrAmatyatiSete'tiricyate .
+atyetyarTe vijayate parAjayata ityapi .. 40 ..
+<f id="1">
+1 pAtratrA karoti - deyaM pAtrADInaM kurute ityarTe deye trA ca iti sUtreRa kfYo 
+yoge pAtraSabdAt trA . pakze pAtrasAt karoti .
+</f>
+<f id="2">
+2 dAsyA saMyacCate - aSizwavyavahAre dARaH prayoge caturTyarTe tftIyA . dAsyE 
+kAmuko ratyarTaM prayacCatItyarTaH .
+</f>
+;p{0006}
+yuDyate yoDayati ca bAhuByAntu niyuDyate .
+kupyati kruDyati dvezwi ruzyatIrzyatyasUyati .. 41 ..
+[^1]saNGarzayatyAhvayati sparDate sparDayatyapi .
+sahate kzamate kzAmyatyapi SAmyati mfzyati .. 42 ..
+prasIdatyanugfhRAti dayate cAnukampate .. 43 ..
+paSyati nirvarRayati [^2]pratyakzayatIkzate'parokzayati .
+niDyAyati locayati ca sAkzAtkurute [^3]niSAmayati .. 44 ..
+lokate lakzayati cApyaTa jAnAti buDyate .
+vedopalaBate'vEti pratyeti pratipadyate .. 45 ..
+manute vetti jAnIte'vagacCatyaDigacCati .. 46 ..
+gfhRAti manyate cATa sandigDe vicikitsati .
+[^4]qolAyate ca saMSete SaNkate vimfSatyataH .. 47 ..
+Uhate tarkayatyaDyAharatyAlocayatyapi .
+mImAMsate viviNkte ca vicArayati cApyaTa .. 48 ..
+nirDArayati nigamayati niScinute niScinoti nirRayate .
+nirRayati nirUpayati ca nirloqayate paricCinatyapi ca .. 49 ..
+<f id="1">
+1 saNGarzayati saNGarzaM karoti .
+</f>
+<f id="2">
+2 pratyakzayati- pratyakzaM karotItyarTe pratyakzaSabdAt Ric . evaM aparokzayatItyatrApi .
+</f>
+<f id="3">
+3 niSAmayati- 'Samo'darSane' iti GawAdyantargaRasUtreRa darSanArTe mittvABAvAt na hrasvaH .
+</f>
+<f id="4">
+4 qolAyate - qoleva AcaratItyarTe qolASabdAt kyaN .
+</f>
+;p{0007}
+nimizati mukulIBavati sPuwati ca saNkucati kuqmalIBavati .
+unmIlatyunmizati hyucCvasiti nimIlayati mizati hasati .. 50 ..
+udBidyate vikasati sPuwIBavati dIryate .
+karoti kurute nirmAtyAcaratyanutizWati .. 51 ..
+nirmimIte viDatte vidaDAti racayatyapi .
+kalpayatyAkalayati tanoti tanute'pi ca .. 52 ..
+[^1]vErAyate virunDe viruRadDi [^2]kalahAyate .
+dvezwi dvizwe vigfhRAti virADyatyaparADyati .. 53 ..
+jiGAMsati vigfhRIte druhyatyapakaroti ca .
+apiDatte cAvfRute sTagayatyapi corRute .. 54 ..
+tiraskaroti ca tiroDApayatyapanihnute .
+vyavaDatte vyavadaDAtyapavArayatIti ca .. 55 ..
+UrRotyurROti DuqayatyantarDApayatIti ca .
+antarDatte tiroDatte lIyate'ntardaDAti ca .. 56 ..
+muzRAti corayati ca haratyapaharatyapi .
+balAdgfhRAtyAcCinatti luRwayatyaTa Guzyati .. 57 ..
+<f id="1">
+1 vErAyate - vEraM karoti ityarTe vEraSabdAt kyaN .
+</f>
+<f id="4">
+2 kalahAyate - kalahaM karoti ityarTe kalahaSabdAt kyaN .
+</f>
+;p{0008}
+[^1]SabdAyate Gozayati rOti svanati kUjati .
+saNkrIqati Dvanati ca SiNkte nadati guYjati .. 58 ..
+raRati kvaRati kruYcatyapi stanati garjati .
+rasati kroSati rawatyaTAkrandati roditi .. 56 ..
+[^2]bAzpAyate vilapati paridevayatIti ca .
+vepate kampate caYcatyapi lolati valgati .. 60 ..
+qolAyate ca calati valate valatIti ca .
+Dunoti Dunute DUnotyAlolayati DUnute .. 61 ..
+DunAti kampayatyevaM Duvati vyagrayatyapi .
+calayatyAkulayati SranTAdiScAlayatyapi .. 62 ..
+SlizyatyAliNgati parizvajate'pyupagUhati .
+[^3]AliNgate cApi pariraBate vezwayatyapi .. 63 ..
+nidaDAti niDatte nikzipate nikzipatyapi .
+niveSayati vinyasyatyapi nyasyati cApyaTa .. 64 ..
+pARO gfhRAti gfhRIte vivahatyupayacCate .
+parigfhRAti ca pariRayatyaTa nizIdati .. 65 ..
+tizWatyAste niviSate vasatyupaviSatyapi .
+vitizWate tadaDyAste'DitizWatyupatizWate .. 66 ..
+<f id="1">
+1 SabdAyate - SabdaM karotItyarTe SabdaSabdAt SabdavErakalahABrakaRvameGeByaH karaRe 
+iti sUtreRa kyaN .
+</f>
+<f id="2">
+2 bAzpAyate -bAzpaM udvamatItyarTaH .
+</f>
+<f id="3">
+3 AliNgate - iha AtmanepadapratyayaH cintyaH .
+</f>
+;p{0009}
+vartate Driyate prARityapi Svasiti jIvati .
+nudati prerayati vikzipati kzipate'syati .. 67 ..
+prahiRoti vyAdiSati niyuNkte codayatyapi .
+prezayatyapi yuNkte visfjati prezyatIti ca .. 68 ..
+biBarti biBfte Datte vahate DArayatyapi .
+daDAti vahatItyarTe DaratyudvahatItyapi .. 69 ..
+tiraskarotyaBiBavatyavajAnAti nindati .
+Dikkaroti nyakkurute vigAyatyavagAyati .. 70 ..
+jugupsate'vamanute garhayatyavamanyate .
+bahizkaroti pariBavatyAkzipati cAjati .. 71 ..
+avaDIrayatyevamavamAnayatIti ca .
+vAYCatIcCatyaBilazatyaBilazyatyapekzate .. 72 ..
+kANkzatyAdriyate cABiprEti spfhayatIhate .
+ASAste'rTayate vazwi lipsate'BIpsatIti ca .. 73 ..
+kANkzate cABisanDatte'nurunDe cAnuruDyate .
+yAcate yAcatItyarTe nATatyarTayate'rdati .. 74 ..
+apo'vagAhate copaspfSati snAti majjati .
+timyatyArdrIBavatyarTe stimyatItyapyaTokzati .. 75 ..
+snapayatyAplAvayati majjayatyapi siYcati .
+Saknoti pArayati paryApnoti praBavatyapi .. 76 ..
+;p{0010}
+Izwe pragalBate cATa pacate pacatIti ca .
+pravartate prakramate prastOtyAraBate'pi ca .. 77 ..
+upakramata udyuNkte cArhatyutsahate'pi ca .
+Ihate cezwate cEva yatate ca prayasyati .. 78 ..
+BuNkte'ByavaharatyaSnAtyAcAmAtyatti KAdati .
+rasayatyAsvAdayati Bakzayatyapi carvati .. 79 ..
+grasate grasatItyarTe jakzati pratyavasyati .
+leQi lIQe'Ta pibati DayatyAsvAdate'pi ca .. 80 ..
+aTo giratyudgirati nigiratyudvamatyapi .. 81 ..
+BUzayati parizkurute[^1]'laNkurute'laNkaroti maRqayati .
+api vA parizkarotyapyAkalpayati prasADayati .. 82 ..
+sOti sUte ca janayatyutpAdayati sUyate .
+trapate lajjate jihretyapi saNkucatIti ca .. 83 ..
+saNgacCate yujyate sampadyate copapadyate .
+santizWate samApnoti paryApnoti ca pUryate .. 84 ..
+Cinatti kfntati lunAtyapi KaRqayati dyati .
+aTa vyApadyate prEti mriyate ca pramIyate .. 85 ..
+sammanyate'nujAnIte'nujAnAtyanumanyate .
+[^2]urarIkurute cANgIkarotyaByupagacCati .. 86 ..
+<f id="1">
+1 alaNkaroti- BUzaRArTe alamityavyayayogaH .
+</f>
+<f id="2">
+2 urarIkaroti - aNgIkArArTe urarItyavyayasamaBivyAhAraH .
+</f>
+;p{0011}
+SfRoti saMSfRuta ityarTe niSamayatyapi .
+AkarRayatyapi tato'vaDatte DArayatyapi .. 87 ..
+aDyeti smarati DyAyatyapi cintayatIti ca .
+pramAdyati prasmarati vismaratyapi muhyati .. 88 ..
+aDIte SIlayatyaByasyati SIlati Sikzate .
+amI paricinotyarTe Gawate'pi ca sidDyati .. 89 ..
+puzRAti pozayatyarTe varDayatyeDayatyapi .
+pavate pAvayatyarTe punIte ca punAti ca .. 90 ..
+mArzwi mArjayate SudDIkurute SoDayatyapi .
+mArjati kzAlayatyarTe nirRenekti ca DAvati .. 91 ..
+vfRoti varayatyarTe vfRIte vfRute varam .
+krIRAti paRate vikrIRIte vyavaharatyapi .. 92 ..
+mimIte mAti saMKyAti minoti gaRayatyapi .
+sajjatyAsaYjayatyarTe sannahyati tu sajjate .. 93 ..
+sraMsate cyavate BraSyatyapi DvaMsata ityapi .
+galatyaTo mfgayate mArgate mArgayatyapi .. 94 ..
+vicinotyanvizyati cAnvicCatyanusaratyapi .
+vinayatyanuSAstyaDyApayatyaByAsayatyapi .. 95 ..
+SAsti SikzayatItyarTe lagatyarTe tu lIyate .
+nayati prApayati saNgamayatyarpayatyapi .. 96 ..
+;p{0012}
+sravati dravati Scotatyapi kzarati varzati .
+syandate skandati nadI vahati pravahatyapi .. 97 ..
+carcayatyaNgarAgArTe rUzayatyapi limpati .. 98 ..
+nyaYcatyaDoyAti patatyaDogacCati majjati .
+aTa nirBartsayati [^1]huNkurute tarjayatyapi .. 99 ..
+BasmIkaroti dahati plavate tu taratyapi .
+nizeDati nirunDe niruRadDi pratizeDati .. 100 ..
+samBrAmyati kzuByati samBramatyapi ca vepate .
+biBeti trasati trasyatyArohatyaDirohati .. 101 ..
+avarohatyavapatatyantarviSati gAhate .
+rajyate rajyati snihyatyanuyuNkte tu pfcCati .. 102 ..
+prativaktyuttarayati vAti vIjayatItyapi .
+liKatyAliKatItyasminnarTe kfzati karzati .. 103 ..
+spfSati jiGrati cumbati lambate, 
+daSati varzati jIryati laNGate .
+Palati SIryati duzyati jfmBate, 
+Sapati Guzyati dfpyati GUrRate .. 104 ..
+baDnAti nahyati ca sandadAtyAkalayatyapi .
+samADatte'nunayati sAntvayatyupayacCati .. 105 ..
+<f id="1">
+1 huNkurute - nyakkAre hum ityavyayam .
+</f>
+;p{0013}
+Kanati kramate snOti paWatyapi luWatyapi .
+jvalati SlaTayatyarTe sraMsayatyaTa hezate .. 106 ..
+karzayatyAsPAlayati saNGawwayati sIvyati .
+vayati vyaYcate dogDi juhoti juzate taTA .. 107 ..
+krIRAti jAnAti punAti puzRA- 
+tyaSnAti muzRAti lunAti cEvam .
+kliSnAti baDnAti gfRAti maTnA- 
+tyataSca gfhRAti taTA vfRIte .. 108 ..
+krIRIte jAnIte gfhRIte'pi ca punIte ca .
+viDunIte ceti SnAvikaraRaBedA ime KyAtAH .. 109 ..
+ruRadDi runDe ca Binatti Binte, 
+yunakti yuNkte ca Bunakti BuNkte .
+vyanaktyunattyeva ca vidvinakti, 
+pinazwi riNkte ca hinastyapInDe .. 110 ..
+juhoti jihreti jahAti datte, 
+dadAti Datte ca taTA jihIte .
+taTA biBetItyapi vA mimIte, 
+biBirti jAgarti cakAsti SAsti .. 111 ..
+daDIte'pi ca vevIte daridrAti ca jakzati .
+ete hyaByastasaMjYAH syuH Jo'ntAdeSavivarjitAH .. 112 ..
+;p{0014}
+sunoti sunute saMSfRute ca vicinoti ca .
+cinute vfRute cEva SfRoti ca vfRoti ca .. 113 ..
+DUnute prahiRotIti Dunute ca Dunoti ca .
+spfRoti ca dunotIti minoti minute taTA .. 114 ..
+DUnotyApnoti Saknoti takzRoti ca hinoti ca .
+sunotyAdyA ime tu SnuvikaraRyaBiDAH smftAH .. 115 ..
+;end{
+SamanaM DvananaM majjanavikalam 
+jfmBaRadamBanarodanahasanam .
+kuwilotsukate BramaRaM yatanam 
+kzaraRaM jaraRaM SakanaM glAniH .
+vfdDikzayaBayajIvitamaraRam 
+lajjAsattAsTitijAgaraRam .
+SayanakrIqArucidIptyarTam 
+DAtugaRaM tamakarmakamAhuH .
+}
+

@@ -1,0 +1,164 @@
+;METADATA
+;title{gaRamaYjarI}
+;author{Ballawa}
+;bookFullName{The Journal of the Tanjore Sarasvati Mahal Library Vol. XVII, No. 1}
+;bookSeriesDetails{}
+;editor{Śrī P. V. Varadarāja Sarmā}
+;editorQualifications{M. A.}
+;publisher{Edited by S. Gopalan, Honorary Secretary T.M.S.S.M. Library Tanjore}
+;pressDetails{}
+;publicationYear{1963 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{GMBL}
+;funding{}
+;licence{GNU GPL v3.0}
+;credits{1. Google OCR for providing us raw OCR data to work with. 2. Mr. Abhay Rathore for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{special}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{gaṇa}
+;newVerseNumbersAtChangeOf{gaṇa}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{19 August 2025}
+;version0.0.2{19 August 2025}
+;version0.0.3{19 August 2025}
+;version0.0.4{20 August 2025}
+;version0.1.0{21 August 2025}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0061}
+;c{gaRamaYjarI}
+;k{magaRAH}
+gaRaprayogasiDyarTaM kavijIvanasADanam .
+vinA viBaktito'smABiH kaTyate gaRamaYjarI .. 1 ..
+AdimaDyAvasAnezu yaratA yAnti lAGavam .
+BajasA gOravaM yAnti manO tu gurulAGavam .. 2 ..
+AdyUQA ca taTA'mbazWA BUmijA'pi prakIrtitA .
+indrARIti ca kalyARI DUmorRA kaTyate taTA .. 3 ..
+brahmARItyaTa pAtAlI CatrAnteti nigadyate .
+maryAdA'pi ca maYjUzA vEdehIti taTA matA .. 4 ..
+jIvantyEva hi kAlindI riYcolI kaTyate Buvi .
+mAlUrIti taTA proktA maYjizWEva buDErBuvi .
+syAdAgAmI tu palyaNkI mAsUrIti nigadyate .. 5 ..
+;c{iti magaRAH .}
+;k{yagaRAH}
+SalAkA ca pulAkA syAdvipaYcI sadbuDEH smftA .
+padAjI syAcciraRwIva praveRI kaTyate janEH .. 6 ..
+SrIparRyapi ca mandAkI cakrANgIti nigadyate .
+syAdullAGA ca kAmbojI pOlomI kaviBiH smftA .. 7 ..
+suparRI cedaBiKyEva kfpARIti smftA matA .
+anantA ca manAkA ca viSAlyEva nigadyate .. 8 ..
+KalUrI tu malUrIva malUkyapi ca varRyate .
+avAkA'pi pulAkyA syAtkaRerItIha kaTyate .. 9 ..
+mahIjA'pi nadIjA ca BavAnI kaTyate buDEH .
+SivAnI ca gavAkzI syAt himAnIti smftA Buvi .
+SuBANgI ca suveRI ca suvarReti nigadyate .. 10 ..
+;c{iti yagaRAH .}
+;p{0062}
+;k{ragaRAH}
+mAstakA cAmbikA cEva kUrcikA mAlikA taTA .
+nIlikA reRukA cApi mallikA'pi ca piRqikA .. 11 ..
+kAlikA tUlikA ca syAdUrmikA cozwrikA taTA .
+DenukA kAmukA cEva BintikA nAlikA smftA .. 12 ..
+syAtpAlikA pAlakIva nIlikA kAlikA matA .
+rAjikA nartakI cApi tArakA karRikA taTA .. 13 ..
+syAtkanyakA gOlikA ca golikA pIWikA matA .
+piRqikA banDakI tu syAdBaktikA meGalA smftA .. 14 ..
+rocanA yAminI cApi vAlukA sallarIti ca .
+yoginI gehinI cEva gehalI grAmaRIstaTA .. 15 ..
+karkawI markawI ca syAnmorawA dUrawI taTA .
+rohiRI vAruRI cApi revatI mAlatI matA .. 16 ..
+DAruRI DoraRIti syAt brAhmaRI kalpanA smftA .
+pUraRI kAraRI proktA SiYjinI maYjarI matA .
+brahmasUrviSvasUScApi SazkulI mazkulI taTA .. 17 ..
+;c{iti ragaRAH .}
+;k{sagaRAH}
+GawikA kaRikA cApi gaRikA viSiKA matA .
+pariGA girijA cEva calajA tripuwA smftA .. 18 ..
+varawA masfRA proktA BaraRI taruRIti ca .
+gfhiRI bfhatI cATa gaRitA tfzajA matA .. 19 ..
+gaRikA yuvatI proktA nalinI ramaRIti ca .
+hariRI kariRIti syAdvanitA janatA smftA .. 20 ..
+;p{0063}
+rajanI jananI proktA baqavA biqavApi ca .
+kamalA vimalA coktA nicayA SicayA matA .. 21 ..
+racanA yamunA'pi syAnmahilA duhilA taTA .
+pramadA kzaRadA ceti kavitA GanatA smftA .
+vinatA trivftA proktA lalitA bakalA matA .. 22 ..
+;c{iti sagaRAH .}
+;k{tagaRAH}
+;c{aTa puruzagaRAH - atra viBaktIrvinA gaRAH .}
+samparko'pi ca saMsargo maRqUkaSceti kaTyate .
+eraRqaScApi devendraH piRyAkastu prakIrtitaH .
+SaMbUkaScATa nirmoko nAliketi nigadyate .. 23 ..
+BavedutsargasamBogO DArANgaSvApyudAhftaH .
+udvegastu taTollAGo mArIcastu prakIrtitaH .. 24 ..
+nArAcaSvApi kAmBojassarvajYassampraDIyate .
+SElAwaSvApi DArAwaScakrAwaSca nigadyate .. 25 ..
+syAdambazWaSca mArtARqa AzAQaSceti kIrtitaH .
+nirvARaM cApi niryARaM kalyARaM sampradIyate .. 26 ..
+;c{iti tagaRAH .}
+;k{jagaRAH}
+vitarkaSva marUkaSca syAdulUko vfzANkavat .
+udarkaSca vyalarkaSca vilaNgaH syAtpulAkavat .. 27 ..
+turuzkavatpfTAkuH syAtkupAkuH syAttriSaMkuvat .
+karaNkavadvipAkaSca nipAkaSca mayUKavat .. 28 ..
+priyaNguvadBujaNgaH syAnnizaNgaH syAnnisargavat .
+trivargavatpataNgaSca varANgaM ca kaliNgavat .. 29 ..
+;p{0064}
+syAdapANgaH prayogaSca tawANgaSca visargavat .
+pariGaSca mahArGaSca syAdanarGaH prapaYcavat .. 30 ..
+maRIcaYca marIcaYca syAdudarciravIcicat .
+syAcCilAjaH paraYjaSca karaYjo'rizwa ityapi .. 31 ..
+;c{iti jagaRAH .}
+;k{BagaRAH}
+saMyaSo darSanaSca syAtsaMSayo jambukastaTA .
+Peravo quRquBaScApi quRqukassajjanastaTA .. 32 ..
+kaYcukaH kokilastu syAdgokzuraScAnakastaTA .
+syAtpecako golakaSva kUvakaH kIcako'pi ca .. 33 ..
+vfScikaH svastikaScEva pakzako mastakastaTA .
+kOSikastuRqikaH proktaH citrakaM DArako mataH .. 34 ..
+syAccumbiko gomuKaM ca pannagaScAtmajaH smftaH .
+aRqajo bAhajaScApi kAkujo BUmijaM mataH .. 35 ..
+sAmajo nizkuwaSca syAtkukkuwaH karkawoNgajaH .
+kIkawo markawaScApi picCawo morawaM taTA .. 36 ..
+revawo revawaM ca syAttUtkawaH parkawo mataH .
+SaNkaraH kiNkaro'pi syAtkeSavaH ketakaH smftaH .
+rAGavo mADavaScApi BAnujassAnujastaTA .. 37 ..
+;c{iti BagaRAH .}
+;k{nagaRAH}
+vaSakastilakaScApi pfTukaH kzurakaH smftaH .
+racakaScATa SaSakaSSiSukaH kramuko'nakaH .. 38 ..
+priyakaH pulakaSca syAtkanakaM tilakaM matam .
+;p{0065}
+viSiKaH pramuKaScATa plavago vihago'pi ca .. 39 ..
+pratiGaH pariGo'pi svAtkrakacaH kuwajo mataH .
+karajo jalajaM ceti girijaM vanajaM taTA .. 40 ..
+lavaje sahajo'pi syAtkarawo vikawo vawuH .
+kamaWo jaraWaScApi druhiRo varuRo vawaH .
+prARassaraRiScATa masfRaM GusfRaM smftam .. 41 ..
+;c{iti nagaRAH .}
+;c{iti SrImaddrAkzArAmanATavaraprasAdalabDasakalaBAzAkavitAnirvAhakakaviBallawaviracitA gaRamaYjarI samAptA ..}
+

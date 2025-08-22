@@ -1,0 +1,100 @@
+;METADATA
+;title{शब्दसारनिघण्टु}
+;author{अज्ञात}
+;bookFullName{निघण्टुसङ्ग्रहः}
+;bookSeriesDetails{Tanjore Sarasvati Mahal Series 520}
+;editor{Munaivar Veeraraghavan}
+;editorQualifications{M.A., B.L.I.S., Ph.D.}
+;publisher{Director, Sarasvati Mahal Library}
+;pressDetails{Sarasvati Mahal Library Press}
+;publicationYear{September 2008 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{SSNA}
+;funding{}
+;licence{GNU GPL v3.0}
+;credits{1. Google OCR for providing us raw OCR data to work with. 2. Mr. Abhay Rathore for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{syno}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{19 August 2025}
+;version0.0.2{19 August 2025}
+;version0.0.3{19 August 2025}
+;version0.0.4{20 August 2025}
+;version0.1.0{21 August 2025}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0043}
+;c{शब्दसारनिघण्टुः}
+स्वर्गे सुखं च वेगः स्यात्सीता तु सुरदीर्घिका ।
+अर्कस्सुरेश्वरश्चापि सुधायां कञ्जमित्यपि ॥ १ ॥
+अग्नौ शुचिश्च रेतश्च जूणिर्विधुरितीर्यते ।
+यमस्तु कङ्को दण्डी च कोणश्चेति निगद्यते ॥ २ ॥
+तस्य दूतस्तु चण्डः स्यात् सुखावरुणपट्टणे ।
+वायुर्मर्को विधूतः स्यात् सोमज्येष्ठौ धनाधिपे ॥ ३ ॥
+शिवो भृगुश्शुचिश्चेति कङ्कटीक इतीर्यते ।
+सुग्रीवो मन्मथे तु स्यात्सूर्ये राकः प्रकीर्तितः ॥ ४ ॥
+;p{0044}
+अगः शुचिश्च चन्द्रे तु खगो मृग इतीर्यते ।
+राजा वृष्णिस्तथाऽऽकाशे नाकशब्दः प्रकीर्तितः ॥ ५ ॥
+शौण्डिकामेघपङ्क्तौ स्याद्गुरौ कच इतीर्यते ।
+श्यामा वसुन्धरायां स्यात् पर्वते नाकुरित्यपि ॥ ६ ॥
+साधौ धुर्धर इत्युक्ते स्फटिके त्वच्छमव्ययम् ।
+आजिस्समस्थलेऽपि स्यात् कच्छः स्यात्तटवाचके ॥ ७ ॥
+स्तम्बे गुच्छ इति प्रोक्तो वेणी नद्यां प्रकीर्तिता ।
+अब्धिस्तटाके कथितस्त्रिका स्याद्दीर्घिका मता ॥ ८ ॥
+;p{0045}
+जले व्योम च पद्मे तु शुण्डा च परिकीर्तिता ।
+समुद्रे नद इत्युक्तो नीलवर्णे शितिः स्मृतः ॥ ९ ॥
+कर्को दर्पणभेदे स्यात् स्वर्णे वर्ण इतीर्यते ।
+शर्करायां तु वलयं शकलं खण्डमित्यपि ॥ १० ॥
+सिता कर्पूरके सोमः कस्तूर्यां मार्ग इत्यपि ।
+शताङ्गे तु त्रिका प्रोक्ता जग्धः स्वल्पान्नवाचके ॥ ११ ॥
+क्ष्वेडा तु सिंहनादे स्याद्वने तु गडुरित्यपि ।
+शिग्रुर्मोच इति प्रोक्तो मोचा स्याच्छाल्मली द्रुमे ॥ १२ ॥
+;p{0046}
+शाखा तु लङ्का कथिता पर्णे शङ्कुरितीर्यते ।
+वार्ताके वङ्ग इत्युक्तो दूर्वा नाडः प्रकीर्तितः ॥ १३ ॥
+भीमसेने गुणः प्रोक्तो राका नवरजस्वला ।
+शुण्डा वारवधूः प्रोक्ता नृपे स्याल्लोकबान्धवः ॥ १४ ॥
+वैदेहिरिति सीतायां रजन्यां रजनिः स्मृतः ।
+आणिर्मुक्तामणौ तु स्यात्पविर्वज्रायुधे स्मृतः ॥ १५ ॥
+;p{0047}
+शलभः क्षुद्रपक्षी स्यान्नयं लोचनवाचके ।
+वंशे पारम्परी प्रोक्ता शमीवृक्षे शमीरकः ॥ १६ ॥
+मृगे तु कृष्णसारः स्यात्कोटीरे तु किलीटकम् ।
+रोमाञ्चे पुल इत्युक्तो गम्भीरश्शूरवाचके ॥ १७ ॥
+कूपारस्सागरे तु स्याद्युवत्यां तलुनी तथा ।
+जोषा च वासुर्विष्णौ स्याद्वामश्चेति निगद्यते ॥ १८ ॥
+;p{0048}
+मण्डूरेऽपि च सिङ्घाणं मणिचं पुष्पवाचके ।
+भेरुण्डो गण्डभेरुण्डे देवक्यां देवकी तथा ॥ १९ ॥
+रक्षा राक्षा च लाक्षायां जले तु सलिलं मतम् ।
+दकं चाप्युत्पले च स्यात् कुमुद्वत्यनुमोदिनी ॥ २० ॥
+नलिकानलमित्युक्तं पद्मे पत्रं तु तूणिका ॥ २१ ॥
+;c{इति शब्दसारनिघण्टुः समाप्तः ।}
+

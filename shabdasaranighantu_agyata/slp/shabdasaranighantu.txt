@@ -1,0 +1,100 @@
+;METADATA
+;title{SabdasAraniGaRwu}
+;author{ajYAta}
+;bookFullName{niGaRwusaNgrahaH}
+;bookSeriesDetails{Tanjore Sarasvati Mahal Series 520}
+;editor{Munaivar Veeraraghavan}
+;editorQualifications{M.A., B.L.I.S., Ph.D.}
+;publisher{Director, Sarasvati Mahal Library}
+;pressDetails{Sarasvati Mahal Library Press}
+;publicationYear{September 2008 A.D.}
+;dataEntryBy{Dr. Dhaval Patel}
+;dataEntryEmail{drdhaval2785@gmail.com}
+;proofReadBy{Dr. Dhaval Patel}
+;proofReaderEmail{drdhaval2785@gmail.com}
+;annotatedBy{}
+;annotatorEmail{}
+;version{0.1.0}
+;projectDetails{This project is aimed at creating a database and related software tools to access Indian koshas, both online and offline.}
+;projectWebPage{http://github.com/sanskrit-kosha/kosha}
+;emailTo{drdhaval2785@gmail.com}
+;description{}
+;shortCode{SSNA}
+;funding{}
+;licence{GNU GPL v3.0}
+;credits{1. Google OCR for providing us raw OCR data to work with. 2. Mr. Abhay Rathore for providing us the scanned book to digitize. 3. Dr. Dhaval Patel for spending time to proofread the data.}
+;dataFormatDetails{See https://github.com/sanskrit-kosha/kosha/blob/master/docs/annotation_thoughts.md for details.}
+;editorialChanges{}
+;nymic{syno}
+;pagenum{true}
+;linenum{false}
+;chapterArrangements{none}
+;newVerseNumbersAtChangeOf{never}
+;newLineNumbersAtChangeOf{never}
+;version0.0.1{19 August 2025}
+;version0.0.2{19 August 2025}
+;version0.0.3{19 August 2025}
+;version0.0.4{20 August 2025}
+;version0.1.0{21 August 2025}
+;version0.2.0{}
+;version0.2.1{}
+;version0.2.2{}
+;version0.3.0{}
+;version0.3.1{}
+;version0.3.2{}
+;version0.3.3{}
+;version0.3.4{}
+;version0.3.5{}
+;version0.3.6{}
+;version1.0.0{}
+;CONTENT
+;p{0043}
+;c{SabdasAraniGaRwuH}
+svarge suKaM ca vegaH syAtsItA tu suradIrGikA .
+arkassureSvaraScApi suDAyAM kaYjamityapi .. 1 ..
+agnO SuciSca retaSca jURirviDuritIryate .
+yamastu kaNko daRqI ca koRaSceti nigadyate .. 2 ..
+tasya dUtastu caRqaH syAt suKAvaruRapawwaRe .
+vAyurmarko viDUtaH syAt somajyezWO DanADipe .. 3 ..
+Sivo BfguSSuciSceti kaNkawIka itIryate .
+sugrIvo manmaTe tu syAtsUrye rAkaH prakIrtitaH .. 4 ..
+;p{0044}
+agaH SuciSca candre tu Kago mfga itIryate .
+rAjA vfzRistaTA''kASe nAkaSabdaH prakIrtitaH .. 5 ..
+SORqikAmeGapaNktO syAdgurO kaca itIryate .
+SyAmA vasunDarAyAM syAt parvate nAkurityapi .. 6 ..
+sADO DurDara ityukte sPawike tvacCamavyayam .
+AjissamasTale'pi syAt kacCaH syAttawavAcake .. 7 ..
+stambe gucCa iti prokto veRI nadyAM prakIrtitA .
+abDistawAke kaTitastrikA syAddIrGikA matA .. 8 ..
+;p{0045}
+jale vyoma ca padme tu SuRqA ca parikIrtitA .
+samudre nada ityukto nIlavarRe SitiH smftaH .. 9 ..
+karko darpaRaBede syAt svarRe varRa itIryate .
+SarkarAyAM tu valayaM SakalaM KaRqamityapi .. 10 ..
+sitA karpUrake somaH kastUryAM mArga ityapi .
+SatANge tu trikA proktA jagDaH svalpAnnavAcake .. 11 ..
+kzveqA tu siMhanAde syAdvane tu gaqurityapi .
+Sigrurmoca iti prokto mocA syAcCAlmalI drume .. 12 ..
+;p{0046}
+SAKA tu laNkA kaTitA parRe SaNkuritIryate .
+vArtAke vaNga ityukto dUrvA nAqaH prakIrtitaH .. 13 ..
+BImasene guRaH prokto rAkA navarajasvalA .
+SuRqA vAravaDUH proktA nfpe syAllokabAnDavaH .. 14 ..
+vEdehiriti sItAyAM rajanyAM rajaniH smftaH .
+ARirmuktAmaRO tu syAtpavirvajrAyuDe smftaH .. 15 ..
+;p{0047}
+SalaBaH kzudrapakzI syAnnayaM locanavAcake .
+vaMSe pAramparI proktA SamIvfkze SamIrakaH .. 16 ..
+mfge tu kfzRasAraH syAtkowIre tu kilIwakam .
+romAYce pula ityukto gamBIraSSUravAcake .. 17 ..
+kUpArassAgare tu syAdyuvatyAM talunI taTA .
+jozA ca vAsurvizRO syAdvAmaSceti nigadyate .. 18 ..
+;p{0048}
+maRqUre'pi ca siNGARaM maRicaM puzpavAcake .
+BeruRqo gaRqaBeruRqe devakyAM devakI taTA .. 19 ..
+rakzA rAkzA ca lAkzAyAM jale tu salilaM matam .
+dakaM cApyutpale ca syAt kumudvatyanumodinI .. 20 ..
+nalikAnalamityuktaM padme patraM tu tURikA .. 21 ..
+;c{iti SabdasAraniGaRwuH samAptaH .}
+
